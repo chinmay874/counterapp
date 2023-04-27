@@ -1,0 +1,27 @@
+.div1{
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#inpt1{
+    position: relative;
+    top: 50px;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px hsla(326, 27%, 35%, 1);
+}
+#btn1{
+    position: relative;
+    top: 70px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px hsla(326, 27%, 35%, 1);
+
+}
+#h11{
+    position: relative;
+    top: 10px;
+}
